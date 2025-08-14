@@ -1,6 +1,13 @@
 body {
-    background-color:(orangered);
+    background-color:blue;
     color:black;
     font-family: 'Times New Roman', Times, serif;
     margin-bottom: 100px;
+}
+
+header {
+    border-bottom: solid 2px darkblue;
+    padding: 20px;
+    front-size: 32px;
+    color:black
 }
