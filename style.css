@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    border-bottom: solid 2px darkblue;
+    border-bottom: solid 2px rgb(4, 245, 4);
     padding: 20px;
     front-size: 32px;
     color:black
