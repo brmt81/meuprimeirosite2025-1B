@@ -1,7 +1,7 @@
 
 body {
-    color:blue;
-    background:rgb(5, 5, 5);
+    color:rgb(3, 249, 3);
+    background:black;
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
     margin-bottom: 100px;
@@ -16,7 +16,7 @@ header {
 }
 
 .primeirovideo {
-    background: rgb(248, 1, 1);
+    background:rgb(1, 247, 1);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
